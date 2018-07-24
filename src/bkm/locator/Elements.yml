@@ -1,0 +1,7 @@
+OnBoardingActivity:
+    getStartedButton: getStarted_btn
+
+GetStartedActivity:
+    phoneNumberEditText: phone_number_layout
+    continueButton: send_sms
+
